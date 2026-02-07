@@ -124,7 +124,6 @@ Include Top 6.6% of the LeetCoders 🌐.
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![](./profile-3d-contrib/profile-night-view.svg)
 
 <hr>
 
@@ -133,4 +132,12 @@ Include Top 6.6% of the LeetCoders 🌐.
 | ![Arjun Jaiswal github stats](https://github-readme-stats.vercel.app/api?username=Arjun8242&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Arjun Jaiswal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun8242&theme=dark&hide_border=false) |
 | -- | -- |
 
+---
+
+<p align="center">
+  <i>"Power reveals character by the choices it makes."</i>
+</p>
+
+
+---
 
