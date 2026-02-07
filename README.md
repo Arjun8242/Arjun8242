@@ -7,7 +7,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg"> -->
 <img 
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&duration=3000&pause=2000&color=F716D4&center=true&random=false&width=520&lines=Hi+There+👋🏻!+MySelf+Arjun+Jaiswal;Backend+Developer+👨🏻‍💻;DSA+📄;Problem+Solver+✍🏻;Good+Friend+🙂;I+Sometimes+Play+Chess+♟️" 
 alt="Typing SVG" />
