@@ -107,7 +107,7 @@ Include Top 6.6% of the LeetCoders 🌐.
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| FitAI | - | [view](https://github.com/Arjun8242/FitAI) | `NodeJs` `ExpressJs` `React.Js` `Resend` `Gemini AI` `MongoDB` `Docker` |
+| FitAI | [view](https://performance-tracker-zeta.vercel.app/) | [view](https://github.com/Arjun8242/FitAI) | `NodeJs` `ExpressJs` `React.Js` `Resend` `Gemini AI` `MongoDB` `Docker` |
 | microservices-chat-app | - | [view](https://github.com/Arjun8242/microservices-chat-app) | `NodeJs` `ExpressJs` `Next.Js` `RabbitMQ` `Redis` `MongoDB` `Docker` `Socket.io` |
 | Authentication System | [view](https://authentication-system-steel.vercel.app/) | [view](https://github.com/Arjun8242/Authentication-System) | `React.Js` `ExpressJs` `TailwindCSS` `MongoDB`  `Redis` `mongoose` `BullMQ` `Vercel` `Render` |
 | Expense Tracker | [view](https://expense-tracker-wrwz3x3wz-arjun8242s-projects.vercel.app/login/) | [view](https://github.com/Arjun8242/Expense-Tracker) | `React.Js` `ExpressJs` `TailwindCSS` `NodeJs` `MongoDB` `Render` `Vercel`|
